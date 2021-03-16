@@ -1,2 +1,1 @@
-# Name                    Version                   Build  Channel
-streamlit                 0.78.0                   pypi_0    pypi
+streamlit==0.78.0
